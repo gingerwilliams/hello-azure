@@ -1,0 +1,24 @@
+{
+    "name": "hello-azure",
+    "version": "1.0.0",
+    "description": "Deploying an app to Azure. Exploring limitations and procedure",
+    "main": "index.js",
+    "scripts": {},
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gingerwilliams/hello-azure.git"
+    },
+    "keywords": [],
+    "author": "Ginja the Ninja",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gingerwilliams/hello-azure/issues"
+    },
+    "homepage": "https://github.com/gingerwilliams/hello-azure#readme",
+    "devDependencies": {
+        "webpack": "4.29.4",
+        "webpack-cli": "3.2.3",
+        "webpack-dev-server": "3.1.14"
+    }
+}
